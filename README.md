@@ -1,6 +1,6 @@
 # Emergency_Room_Patient_Visit_Analysis_Dashboard
 ## Overview
-This project presents a detailed analysis of Emergency Room Patient Visits using fake data from 2019 and 2020. The dataset is sourced from [Data World]( and contains columns such as patient demographics, visit patterns, satisfaction scores, wait times, and referral details. The analysis is visualized through an interactive Tableau dashboard to derive actionable insights for healthcare decision-making.
+This project presents a detailed Emergency Room Patient Visits analysis using fake data from 2019 and 2020. The dataset is sourced from [Data World](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv) and contains columns such as patient demographics, visit patterns, satisfaction scores, wait times, and referral details. The analysis is visualized through an interactive Tableau dashboard to derive actionable insights for healthcare decision-making.
 ## Key Features of this Dashboard
 1.	Total Number of Patient Visits
 - The total number of patients visiting the emergency room over the two years.
@@ -28,3 +28,7 @@ This project demonstrates my ability to analyze and visualize healthcare data to
 - Identifying trends and optimizing patient care workflows
 How to View the Dashboard
 The Tableau dashboard is hosted and can be accessed [here](https://public.tableau.com/authoring/EmergencyRoomVisitDashboard_17351443377000/Dashboard1#1).
+
+![Emergency Room Patient Visit Dashboard](https://github.com/MuhammadUzairMadni/Emergency_Room_Patient_Visit_Analysis_Dashboard-/blob/main/Emergency%20Room%20Patient%20Visit%20Dashboard.png)
+
+## Thanks For Watching
